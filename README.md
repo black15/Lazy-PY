@@ -17,3 +17,9 @@ python3 Lazy.py
 #Download Github Tools :
 
 ![review2](https://user-images.githubusercontent.com/38563357/44833260-ce554280-ac2d-11e8-8a8b-20a5251dbe12.png)
+
+# About ME :
+
+Youtube : https://www.youtube.com/channel/UClF7WD_UzJ1kgC_RdznfQbQ
+
+Facebook : https://www.facebook.com/unknownkid18
