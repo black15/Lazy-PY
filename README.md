@@ -12,3 +12,4 @@ python3 Lazy.py
 
 # Let The Magic Happen
 
+![review](https://user-images.githubusercontent.com/38563357/44833213-af56b080-ac2d-11e8-8b07-7da969d1ecb0.png)
